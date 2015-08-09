@@ -21,6 +21,8 @@ Then, after these Assignment #1 and those classes are completed, these next clas
 All in all the classes listed above can take nearly 30-60 hours if the person is taking notes and following along closely. On codeacademy alone it is more than 200 excercises, plus a good amount of points on code school. (100 or more excercises)
 ___
 
+## Afterword
+
 The idea is basically expose to real world problems, and have them submit the code on github.
 
 I give those assignments to them after I instruct them to take free courses online so that they understand the assignment, project, or other problem I can give them. The classes are free and provide a benefit to them in that they have solid things to put on their resumes, for example: 
@@ -33,3 +35,7 @@ I give those assignments to them after I instruct them to take free courses onli
  * http://stackoverflow.com/users/3100494/j-dizzle?tab=profile
 
 The idea is basically expose them to real world problems, and have them submit the code on github; teach them how to them how to ask questions on stack overflow, how to read the javascript console and interpret error messages, HTTP communication, the difference between backend and frontend, recommending IDEs, all during skype calls to supplement the exposure to acquire their own solutions for their given assignments, and practice speaking technical language.
+
+___
+
+And this list is subject to change as the end of this cirriculum is completed, for example, javascript best practives only level 1 is free and other courses and othe suggestions like udacity and coursera are not listed, and nothing paid is listed, but they would in most instances be listed chronologically after the files listed in this readme file right now.
