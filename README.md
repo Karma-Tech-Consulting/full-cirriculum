@@ -1,8 +1,8 @@
 # full-cirriculum
 
-In Projects", the Assignment is the README.md file, and Q & A assets are the other files included in the github repository. First one is basically modify the PHP loop and also work with git against a real-world problem (part 2 of assignment #1 above is to add bootstrap to create 3x3 grid of images and headers). 
+In Projects, the Assignment is the README.md file, and Q & A assets are the other files included in the github repository. First one is basically modify the PHP loop and also work with git against a real-world problem (part 2 of assignment #1 above is to add bootstrap to create 3x3 grid of images and headers). 
 
-Before the [1st assignment](https://github.com/Karma-Tech-Consulting/apprentice-php-portfolio) they complete the following:
+Before the [1st assignment](https://github.com/Karma-Tech-Consulting/apprentice-php-portfolio) they complete the following (all codeacademy is free):
 
 * HTML @ codeacademy - http://www.codecademy.com/tracks/web
 
@@ -18,10 +18,10 @@ Before the [1st assignment](https://github.com/Karma-Tech-Consulting/apprentice-
 * Code School "Discover DevTools" - (free code school elective path)
 __
 
-Then, after these Assignment #1 and those classes are completed, these next classes are assigned and then Assignment #2 (https://github.com/Karma-Tech-Consulting/tdd-javascript), is assigned.  
+Then, after these Assignment #1 and those classes are completed, these next classes are assigned and then [Assignment #2](https://github.com/Karma-Tech-Consulting/tdd-javascript), is assigned.  
 
+* Then Code School "Javascript Road Trip Part 1" - (free code school javascript path)
 * Then Codeacademy "Javascript" - "10 hours"
-
 * Then Code School "Try jQuery" - (free code school javascript path)
 
 All in all the classes listed above can take nearly 30-60 hours if the person is taking notes and following along closely. On codeacademy alone it is more than 200 excercises, plus a good amount of points on code school. (100 or more excercises)
