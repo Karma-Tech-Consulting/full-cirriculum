@@ -18,7 +18,7 @@ Then, after these Assignment #1 and those classes are completed, these next clas
 * Then [Codeacademy "Javascript"](https://www.codecademy.com/tracks/javascript) - "10 hours"
 * Then [Code School "Try jQuery"](https://www.codeschool.com/courses/try-jquery) - (free code school javascript path)
 
-All in all the classes listed above can take nearly 30-60 hours if the person is taking notes and following along closely. On codeacademy alone it is more than 200 excercises, plus a good amount of points on code school. (100 or more excercises)
+**All in all the classes listed above can take nearly 30-60 hours** if the person is taking notes and following along closely. On codeacademy alone it is more than 200 excercises, plus a good amount of points on code school. (100 or more excercises)
 ___
 
 ## Afterword
