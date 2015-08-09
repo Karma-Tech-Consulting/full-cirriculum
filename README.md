@@ -4,19 +4,19 @@ In Projects, the Assignment is the README.md file, and Q & A assets are the othe
 
 Before the [1st assignment](https://github.com/Karma-Tech-Consulting/apprentice-php-portfolio) they complete the following (all codeacademy is free):
 
-* HTML @ codeacademy - http://www.codecademy.com/tracks/web
-* PHP @ codeacademy - http://www.codecademy.com/tracks/php
-* Then they can try to complete the first assignment(https://github.com/Karma-Tech-Consulting/apprentice-php-portfolio) and the following classes will help them get through it, and so does skyping their mentor. In my business model involving my interns, I'm the mentor to them, and trying to get contracts so that these interns can have real world problems to solve and get paid, now that they have some training.
-* Then: Codeacademy "Make a Website" - "3 hours"
-* Then Code School "Try Git" - (still only doing free courses on code school, code school git path) Learn this - hard. Do additional other research about Git and about Github and about version control system(google each of those words/phrases) ...
-* Code School "Discover DevTools" - (free code school elective path)
+* [HTML @ codeacademy](http://www.codecademy.com/tracks/web)
+* [PHP @ codeacademy](http://www.codecademy.com/tracks/php)
+* Then they can try to complete [the first assignment](https://github.com/Karma-Tech-Consulting/apprentice-php-portfolio) and the following classes will help them get through it, and so does skyping their mentor. In my business model involving my interns, I'm the mentor to them, and trying to get contracts so that these interns can have real world problems to solve and get paid, now that they have some training.
+* Then: [Codeacademy "Make a Website"](https://www.codecademy.com/skills/make-a-website) - "3 hours"
+* Then [Code School "Try Git"](https://www.codeschool.com/courses/try-git) - (still only doing free courses on code school, code school git path) Learn this - hard. Do additional other research about Git and about Github and about version control system(google each of those words/phrases) ...
+* And [Code School "Discover DevTools"](http://discover-devtools.codeschool.com/) - (free code school elective path)
 ___
 
 Then, after these Assignment #1 and those classes are completed, these next classes are assigned and then [Assignment #2](https://github.com/Karma-Tech-Consulting/tdd-javascript), is assigned.  
 
-* Then Code School "Javascript Road Trip Part 1" - (free code school javascript path)
-* Then Codeacademy "Javascript" - "10 hours"
-* Then Code School "Try jQuery" - (free code school javascript path)
+* Then [Code School "Javascript Road Trip Part 1"](https://www.codeschool.com/courses/javascript-road-trip-part-1) - (free code school javascript path)
+* Then [Codeacademy "Javascript"](https://www.codecademy.com/tracks/javascript) - "10 hours"
+* Then [Code School "Try jQuery"](https://www.codeschool.com/courses/try-jquery) - (free code school javascript path)
 
 All in all the classes listed above can take nearly 30-60 hours if the person is taking notes and following along closely. On codeacademy alone it is more than 200 excercises, plus a good amount of points on code school. (100 or more excercises)
 ___
