@@ -34,7 +34,7 @@ I give those assignments to them after I instruct them to take free courses onli
  * https://www.codecademy.com/jjones4031
  * https://www.codecademy.com/Akulanite
  * https://www.codeschool.com/users/juliusakula
- * http://http://juliusakula.github.io/certificates/Front%20End%20Web%20Developer%20Nanodegreee%20Completion.pdf
+ * http://juliusakula.github.io/certificates/Front%20End%20Web%20Developer%20Nanodegreee%20Completion.pdf
  * https://www.coursera.org/account/accomplishments/verify/7C3P4MSZZJ
  * http://stackoverflow.com/users/3100494/j-dizzle?tab=profile
 
