@@ -23,9 +23,9 @@ ___
 
 ## Afterword
 
-The idea is basically expose to real world problems, and have them submit the code on github.
+The idea is basically expose the programming apprentices to real world problems, and have them submit their solution code to github.
 
-I give those assignments to them after I instruct them to take free courses online so that they understand the assignment, project, or other problem I can give them. The classes are free and provide a benefit to them in that they have solid things to put on their resumes, for example: 
+I give those assignments to them after I instruct them to take free courses online so that they understand the assignment, project, or other problem I can give them. The classes are free and **provide a benefit to them in that they have solid things to put on their resumes, for example**: 
  * https://www.codecademy.com/Devon.Warmack
  * https://www.codecademy.com/jjones4031
  * https://www.codecademy.com/Akulanite
