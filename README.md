@@ -11,6 +11,7 @@ Before the [1st assignment](https://github.com/Karma-Tech-Consulting/apprentice-
 * Then Code School "Try Git" - (still only doing free courses on code school, code school git path) Learn this - hard. Do additional other research about Git and about Github and about version control system(google each of those words/phrases) ...
 * Code School "Discover DevTools" - (free code school elective path)
 ___
+
 Then, after these Assignment #1 and those classes are completed, these next classes are assigned and then [Assignment #2](https://github.com/Karma-Tech-Consulting/tdd-javascript), is assigned.  
 
 * Then Code School "Javascript Road Trip Part 1" - (free code school javascript path)
