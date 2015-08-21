@@ -1,6 +1,6 @@
 # full-cirriculum
 
-In Projects, the Assignment is the README.md file, and Q & A assets are the other files included in the github repository. First one is basically modify the PHP loop and also work with git against a real-world problem (part 2 of assignment #1 above is to add bootstrap to create 3x3 grid of images and headers). 
+Do Assignments, that is the README.md file, as you do the classes bulleted after it is listed.Q & A assets are the other files included in the github repository to help.
 
 Before the [1st assignment](https://github.com/Karma-Tech-Consulting/apprentice-php-portfolio) they complete the following (all codeacademy is free):
 
@@ -38,9 +38,9 @@ I give those assignments to them after I instruct them to take free courses onli
  * https://www.codecademy.com/Akulanite
  * https://www.codeschool.com/users/juliusakula
 
+ * and in the future apprentices will accomplish coursera and udacity and code school.
  * https://www.coursera.org/account/accomplishments/verify/7C3P4MSZZJ
  * http://juliusakula.github.io/certificates/Front%20End%20Web%20Developer%20Nanodegreee%20Completion.pdf
-
  * http://stackoverflow.com/users/3100494/j-dizzle?tab=profile
 
 > The idea is basically expose them to real world problems, and have them submit the code on github; teach them how to them how to ask questions on stack overflow, how to read the javascript console and interpret error messages, HTTP communication, the difference between backend and frontend, recommending IDEs, all during skype calls to supplement the exposure to acquire their own solutions for their given assignments, and practice speaking technical language.
